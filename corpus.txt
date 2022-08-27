@@ -9,6 +9,7 @@
 
 #
 # Tipus: Incisos o aclariments
+# Aquelles que expliquen alguna cosa sobre l'antecedent
 #
 Les comes, sempre segons les regles gramaticals, emmarquen una estructura prescindible.
 Barcelona, capital mundial del turisme científic, tornarà a ser la protagonista.
@@ -18,14 +19,17 @@ El president, que va resultar elegit per majoria, ha assumit la gestió del seu 
 El noi, trist i abatut, va reconèixer el seu error.
 El ciríl·lic, l’alfabet que utilitzen les llengües eslaves, té 33 lletres.
 Sòfocles, que és un dels grans dramaturgs grecs, va viure al segle v aC.
+Els funcionaris, que treballen al primer pis, no van sentir res. 
+Recordeu que, per a obtenir el text complet dels articles, només ho heu de sol·licitar.
+El 13 de juliol rebem, del regidor del districte, una resolució.
 
 #
 # Tipus: Elisió verbal
 # Oracions amb els verbs elidits se sol usar la coma per marcar aquesta elisió
-
+#
 Això vol dir una cosa; allò, una altra.
 Els caps eren a la reunió i els col·laboradors, a la sala d'espera.
-
+A primer expliquen la prosa i a segon, la poesia.
 
 
 #
@@ -44,12 +48,26 @@ Felicitats, amic.
 Felicitats, Joan.
 Jordi, el senyor Bach ha vingut a buscar l'informe.
 
+#
+# Tipus: Marcadors discursius / Circumstancials
+#
+
+En primer lloc, cal parlar de les causes del problema.
+Abans de començar, deixeu-me que presenti els músics que m’acompanyen.
+En aquesta situació, val més no arriscar-se.
+En aquell moment, com que no veia ningú, vaig començar a cridar.
+Jo, si fos de vosaltres, no ho faria.
+El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
+
+
 
 #
-# Tipus: Davant "però" i equivalents
+# Tipus: Conjuncions adversatives
+# Davant de conjuncions adversatives (però, sinó, tanmateix..) i separant altres conjuncions o locucions conjuntives en què s'acostuma a fer una pausa
 #
 
 Això està bé, però aquella altra solució encara és millor.
+Van preparar el pla, però no el van aprovar. No obstant això, pensen continuar treballant. 
 
 # Excepció si és curta
 No és difícil sinó fàcil. 
@@ -57,9 +75,12 @@ No és difícil sinó fàcil.
 
 #
 # Tipus: Enumeració
+# Per separar elements d'una enumeració, fora que hi hagi les conjuncions i, o o ni.
 #
 Espero que l'explicació sigui clara, útil i interessant.
 Tinc quatre colors: verd, vermell, blau i groc.
+S'ha de menester un PC, una impressora, un mòdem i un vídeo.
+Les aules no disposen d'ordinadors, projectors ni pantalles.
 
 #
 # Tipus: Davant d'etc.
@@ -101,16 +122,6 @@ Quan passa una cosa d'aquest estil tan especial, hem de separar la frase amb una
 Si poses una coma ací és que no ho has entès bé.
 
 
-#
-# Tipus: Marcadors discursius / Circumstancials
-#
-
-En primer lloc, cal parlar de les causes del problema.
-Abans de començar, deixeu-me que presenti els músics que m’acompanyen.
-En aquesta situació, val més no arriscar-se.
-En aquell moment, com que no veia ningú, vaig començar a cridar.
-Jo, si fos de vosaltres, no ho faria.
-El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
 
 #
 # Tipus: Ambigüitats
