@@ -1,6 +1,10 @@
 #
 #
-#  Aquest és un conjunt de dades per a l'avaluació de l'ús de la coma en models de sistemes de puntuació.
+#  Aquest és un corpus per a l'avaluació de l'ús de la coma en models de sistemes de puntuació.
+# 
+#  Aquest corpus té dos parts:
+#   - Una part per evaluar l'us de correcte de les comes
+#   - Una part per a evaluar l'ús incorrecte de les comes (secció tipus 'Sense comes')
 #
 #  Referències
 #       Manual d'estil del DIEC: https://estil.llocs.iec.cat/wp-content/uploads/sites/24/2019/02/07_Pag_167-278_p-4.pdf
@@ -22,6 +26,7 @@ Sòfocles, que és un dels grans dramaturgs grecs, va viure al segle v aC.
 Els funcionaris, que treballen al primer pis, no van sentir res. 
 Recordeu que, per a obtenir el text complet dels articles, només ho heu de sol·licitar.
 El 13 de juliol rebem, del regidor del districte, una resolució.
+Joan Fuster, l'autor de l'Diccionari per a ociosos, va néixer el 1922.
 
 #
 # Tipus: Elisió verbal
@@ -30,7 +35,8 @@ El 13 de juliol rebem, del regidor del districte, una resolució.
 Això vol dir una cosa; allò, una altra.
 Els caps eren a la reunió i els col·laboradors, a la sala d'espera.
 A primer expliquen la prosa i a segon, la poesia.
-
+A paraula veí s'escriu amb accent, i la paraula veïna, amb dières
+En les àrees urbanes caldrà una xarxa molt densa; en la resta, una densitat menor.
 
 #
 # Tipus: Vocatiu
@@ -47,6 +53,7 @@ Per molts anys, amic.
 Felicitats, amic. 
 Felicitats, Joan.
 Jordi, el senyor Bach ha vingut a buscar l'informe.
+Marta, on has desat l'abric?
 
 #
 # Tipus: Marcadors discursius / Circumstancials
@@ -60,7 +67,6 @@ Jo, si fos de vosaltres, no ho faria.
 El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
 
 
-
 #
 # Tipus: Conjuncions adversatives
 # Davant de conjuncions adversatives (però, sinó, tanmateix..) i separant altres conjuncions o locucions conjuntives en què s'acostuma a fer una pausa
@@ -68,6 +74,8 @@ El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
 
 Això està bé, però aquella altra solució encara és millor.
 Van preparar el pla, però no el van aprovar. No obstant això, pensen continuar treballant. 
+M’agradaria estudiar més i treure notes millors, però no sé com fer-ho.
+L’estiu passat no van fer vacances, sinó que van treballar.
 
 # Excepció si és curta
 No és difícil sinó fàcil. 
@@ -81,6 +89,7 @@ Espero que l'explicació sigui clara, útil i interessant.
 Tinc quatre colors: verd, vermell, blau i groc.
 S'ha de menester un PC, una impressora, un mòdem i un vídeo.
 Les aules no disposen d'ordinadors, projectors ni pantalles.
+A l'universitat estudiem història, ciències, llengua
 
 #
 # Tipus: Davant d'etc.
@@ -94,7 +103,6 @@ El primer, el segon, el tercer, etc.
 
 Uf, això és complicat.
 Ai, mare!
-
 
 
 #
@@ -163,4 +171,13 @@ Barcelona, 3 de febrer del 2022
 Girona, 12 d'abril de 20055
 Vic, 3 de gener de 2006
 
+#
+# Tipus: Sense comes
+# Es tracta de frases que no han de portar mai comes i serveixen per detectar falsos positius
+#
+
+Podeu seguir la resta de la cursa en directe.
+Els elements que configuren un sistema electoral són principalment tres.
+Poseu sal abundat en una paella i aneu formant les croquetes amb l'ajuda d'una cullera.
+L'hàbit de la desidia ha de ser considerat com el vici més gran de l'esperit democràtic.
 
