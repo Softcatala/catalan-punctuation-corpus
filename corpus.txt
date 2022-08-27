@@ -2,9 +2,9 @@
 #
 #  Aquest és un corpus per a l'avaluació de l'ús de la coma en models de sistemes de puntuació.
 # 
-#  Aquest corpus té dos parts:
-#   - Una part per evaluar l'us de correcte de les comes
-#   - Una part per a evaluar l'ús incorrecte de les comes (secció tipus 'Sense comes')
+#  Aquest corpus té dues parts:
+#   - Una part per a avaluar l'us de correcte de les comes
+#   - Una part per a avaluar l'ús incorrecte de les comes (secció tipus 'Sense comes')
 #
 #  Referències
 #       Manual d'estil del DIEC: https://estil.llocs.iec.cat/wp-content/uploads/sites/24/2019/02/07_Pag_167-278_p-4.pdf
@@ -37,6 +37,7 @@ Els caps eren a la reunió i els col·laboradors, a la sala d'espera.
 A primer expliquen la prosa i a segon, la poesia.
 A paraula veí s'escriu amb accent, i la paraula veïna, amb dières
 En les àrees urbanes caldrà una xarxa molt densa; en la resta, una densitat menor.
+En Josep es queda la camisa blanca i el seu pare, la negra
 
 #
 # Tipus: Vocatiu
@@ -76,6 +77,7 @@ Això està bé, però aquella altra solució encara és millor.
 Van preparar el pla, però no el van aprovar. No obstant això, pensen continuar treballant. 
 M’agradaria estudiar més i treure notes millors, però no sé com fer-ho.
 L’estiu passat no van fer vacances, sinó que van treballar.
+Si no coneixes la ruta, consulta un mapa de la zona
 
 # Excepció si és curta
 No és difícil sinó fàcil. 
@@ -178,6 +180,8 @@ Vic, 3 de gener de 2006
 
 Podeu seguir la resta de la cursa en directe.
 Els elements que configuren un sistema electoral són principalment tres.
-Poseu sal abundat en una paella i aneu formant les croquetes amb l'ajuda d'una cullera.
-L'hàbit de la desidia ha de ser considerat com el vici més gran de l'esperit democràtic.
+Poseu oli abundant en una paella i aneu formant les croquetes amb l'ajuda d'una cullera.
+L'hàbit de la desídia ha de ser considerat com el vici més gran de l'esperit democràtic.
+D'aquella dona va vindre també al meu poble la nova pedagogia escolar.
+Un municipi intenta eludir l’obligació de pagar l’impost no nomenant els assessors.
 
