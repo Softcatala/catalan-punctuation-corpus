@@ -5,6 +5,7 @@
 #  Referències
 #       Manual d'estil del DIEC: https://estil.llocs.iec.cat/wp-content/uploads/sites/24/2019/02/07_Pag_167-278_p-4.pdf
 #       
+# Llicència: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
 
 #
 # Tipus: Incisos o aclariments
@@ -150,8 +151,5 @@ Això que escric ací és un exemple del que s'ha de fer.
 Barcelona, 3 de febrer del 2022
 Girona, 12 d'abril de 20055
 Vic, 3 de gener de 2006
-
-
-
 
 
