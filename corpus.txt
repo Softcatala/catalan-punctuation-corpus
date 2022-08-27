@@ -1,0 +1,157 @@
+#
+#
+#  Aquest és un conjunt de dades per a l'avaluació de l'ús de la coma en models de sistemes de puntuació.
+#
+#  Referències
+#       Manual d'estil del DIEC: https://estil.llocs.iec.cat/wp-content/uploads/sites/24/2019/02/07_Pag_167-278_p-4.pdf
+#       
+
+#
+# Tipus: Incisos o aclariments
+#
+Les comes, sempre segons les regles gramaticals, emmarquen una estructura prescindible.
+Barcelona, capital mundial del turisme científic, tornarà a ser la protagonista.
+Els ciutadans, commoguts per la tragèdia, no van dubtar a ajudar els afectats.
+Els estudiants, que no havien pogut estudiar, van suspendre l'examen.
+El president, que va resultar elegit per majoria, ha assumit la gestió del seu predecessor en el càrrec.
+El noi, trist i abatut, va reconèixer el seu error.
+El ciríl·lic, l’alfabet que utilitzen les llengües eslaves, té 33 lletres.
+Sòfocles, que és un dels grans dramaturgs grecs, va viure al segle v aC.
+
+#
+# Tipus: Elisió verbal
+# Oracions amb els verbs elidits se sol usar la coma per marcar aquesta elisió
+
+Això vol dir una cosa; allò, una altra.
+Els caps eren a la reunió i els col·laboradors, a la sala d'espera.
+
+
+
+#
+# Tipus: Vocatiu
+# Noms amb què es reclama l'atenció d'algú
+#
+
+Per molts anys, Joan.
+Això no és veritat, estimada.
+No volem fer classe, professor.
+Felicitacions, amic. 
+Espera la sentència, home.
+No els pots demanar massa cosa, pobrets.
+Per molts anys, amic. 
+Felicitats, amic. 
+Felicitats, Joan.
+Jordi, el senyor Bach ha vingut a buscar l'informe.
+
+
+#
+# Tipus: Davant "però" i equivalents
+#
+
+Això està bé, però aquella altra solució encara és millor.
+
+# Excepció si és curta
+No és difícil sinó fàcil. 
+
+
+#
+# Tipus: Enumeració
+#
+Espero que l'explicació sigui clara, útil i interessant.
+Tinc quatre colors: verd, vermell, blau i groc.
+
+#
+# Tipus: Davant d'etc.
+# 
+
+El primer, el segon, el tercer, etc.
+
+#
+# Tipus: Interjeccions
+#
+
+Uf, això és complicat.
+Ai, mare!
+
+
+
+#
+# Tipus: Oracions distributives (en català?)
+#
+
+Per a aquest cas, bé aprenem les conjuncions de memòria, bé les deduïm en cada cas.
+
+#
+# Tipus: CC al principi, invertit
+#
+
+En aquesta hora de feina intensa, pensem en la teoria de les comes.
+
+# Excepció si el CC és curt
+En aquest moment no es pot fer. 
+
+
+#
+# Tipus: Subordinada adverbial abans de la principal
+#
+Quan passa una cosa d'aquest estil tan especial, hem de separar la frase amb una coma.
+
+# Excepció: falses condicionals
+Si poses una coma ací és que no ho has entès bé.
+
+
+#
+# Tipus: Marcadors discursius / Circumstancials
+#
+
+En primer lloc, cal parlar de les causes del problema.
+Abans de començar, deixeu-me que presenti els músics que m’acompanyen.
+En aquesta situació, val més no arriscar-se.
+En aquell moment, com que no veia ningú, vaig començar a cridar.
+Jo, si fos de vosaltres, no ho faria.
+El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
+
+#
+# Tipus: Ambigüitats
+#
+
+# També es podria dir 'He fet la feina com em vas demanar.'
+He fet la feina, com em vas demanar.
+
+
+#
+# Tipus: Comiats
+#
+
+T'estimo molt, Joanet
+
+
+#
+# Tipus: Sobrenoms, pseudònims
+#
+
+Joan Garcia, els Carros.
+
+
+#
+# Tipus: Adverbis
+#
+
+Afortunadament, això no és gens difícil de fer.
+
+# Subjecte/predicat: no
+# No cal coma després d'ací
+Això que escric ací és un exemple del que s'ha de fer.
+
+#
+# Tipus: datacions
+#
+
+Barcelona, 3 de febrer del 2022
+Girona, 12 d'abril de 20055
+Vic, 3 de gener de 2006
+
+
+
+
+
