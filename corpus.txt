@@ -23,11 +23,13 @@ El president, que va resultar elegit per majoria, ha assumit la gestió del seu 
 El noi, trist i abatut, va reconèixer el seu error.
 El ciríl·lic, l’alfabet que utilitzen les llengües eslaves, té 33 lletres.
 Sòfocles, que és un dels grans dramaturgs grecs, va viure al segle v aC.
-Els funcionaris, que treballen al primer pis, no van sentir res. 
+Els funcionaris, que treballen al primer pis, no van sentir res.
 Recordeu que, per a obtenir el text complet dels articles, només ho heu de sol·licitar.
 El 13 de juliol rebem, del regidor del districte, una resolució.
 Joan Fuster, l'autor de l'Diccionari per a ociosos, va néixer el 1922.
-
+Amb tot i això, amb Lluís XIV, hi havia molta menys centralització administrativa que avui.
+I una prova més que evident d'eixa voluntat de repoblar llocs erms de fruiters, com un turista arrelat, és el nostre de casa.
+Ús retòric, sense càrrega política, de l'antiga denominació Regne de València.
 #
 # Tipus: Elisió verbal
 # Oracions amb els verbs elidits se sol usar la coma per marcar aquesta elisió
@@ -66,7 +68,8 @@ En aquesta situació, val més no arriscar-se.
 En aquell moment, com que no veia ningú, vaig començar a cridar.
 Jo, si fos de vosaltres, no ho faria.
 El jutge ha decidit, tenint en compte els seus antecedents, condemnar-lo.
-
+Seguint la metàfora de Berlin, nosaltres partim de la idea que la diversitat lingüística és un fet normal i positiu.
+Quan vaig començar a redactar el lli­bre, tenia el dubte de com agruparia els diferents plats.
 
 #
 # Tipus: Conjuncions adversatives
@@ -78,6 +81,7 @@ Van preparar el pla, però no el van aprovar. No obstant això, pensen continuar
 M’agradaria estudiar més i treure notes millors, però no sé com fer-ho.
 L’estiu passat no van fer vacances, sinó que van treballar.
 Si no coneixes la ruta, consulta un mapa de la zona
+Modifica no sols les lleis, sinó també els costums.
 
 # Excepció si és curta
 No és difícil sinó fàcil. 
@@ -184,4 +188,5 @@ Poseu oli abundant en una paella i aneu formant les croquetes amb l'ajuda d'una 
 L'hàbit de la desídia ha de ser considerat com el vici més gran de l'esperit democràtic.
 D'aquella dona va vindre també al meu poble la nova pedagogia escolar.
 Un municipi intenta eludir l’obligació de pagar l’impost no nomenant els assessors.
-
+Podia estar segur que abans es matava que cedir davant dels enemics.
+L'elegant que no podia aconseguir eixe estat de saturació entrava en greu depressió.
