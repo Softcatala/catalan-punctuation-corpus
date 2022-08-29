@@ -30,6 +30,8 @@ Joan Fuster, l'autor de l'Diccionari per a ociosos, va néixer el 1922.
 Amb tot i això, amb Lluís XIV, hi havia molta menys centralització administrativa que avui.
 I una prova més que evident d'eixa voluntat de repoblar llocs erms de fruiters, com un turista arrelat, és el nostre de casa.
 Ús retòric, sense càrrega política, de l'antiga denominació Regne de València.
+El jutge americà s’assembla, doncs, perfectament als magistrats de les altres nacions.
+
 #
 # Tipus: Elisió verbal
 # Oracions amb els verbs elidits se sol usar la coma per marcar aquesta elisió
@@ -98,7 +100,7 @@ Les aules no disposen d'ordinadors, projectors ni pantalles.
 A l'universitat estudiem història, ciències, llengua
 
 #
-# Tipus: Davant d'etc.
+# Tipus: Davant d'etc. (juntar amb enumeració)
 # 
 
 El primer, el segon, el tercer, etc.
@@ -131,6 +133,7 @@ En aquest moment no es pot fer.
 # Tipus: Subordinada adverbial abans de la principal
 #
 Quan passa una cosa d'aquest estil tan especial, hem de separar la frase amb una coma.
+Malgrat el precedent, el valencianisme va saber articular respostes des de la seua sobirania organitzativa.
 
 # Excepció: falses condicionals
 Si poses una coma ací és que no ho has entès bé.
@@ -190,3 +193,35 @@ D'aquella dona va vindre també al meu poble la nova pedagogia escolar.
 Un municipi intenta eludir l’obligació de pagar l’impost no nomenant els assessors.
 Podia estar segur que abans es matava que cedir davant dels enemics.
 L'elegant que no podia aconseguir eixe estat de saturació entrava en greu depressió.
+Encara prefereixen els duels als processos.
+Va ser una pena.
+He vestit encara sota el consell d'aquells que passaven la mà sobre el teixit amb els ulls tancats i ensumant amb el nas la qualitat d'una tela com qui olora la flor del gessamí.
+Hauries de mantenir estirat el clatell.
+Tenia la casa voltada de gent amb escopeta i va faltar una mita perquè no corregués la sang.
+El segon període del tema presenta una seqüència melòdica repetida amb una lleugera variació rítmica.
+Els americans han triat el segon d’aquests dos mals.
+Hi hagué un temps en què també nosaltres vam poder crear en els deserts americans una gran nació francesa.
+Sonava un rugit incessant cada vegada més prop.
+Aquí hi ha un dels defectes principals d’aquest sistema.
+Dues coses sorprenen als Estats Units: la gran mobilitat de la major part de les accions humanes i la fixesa singular de certs principis.
+La música va arribar davant la taverna.
+La ciutat es construeix a través de l'ús.
+Jo no tinc dret a entrar en les vostres cases.
+La comunitat participarà en les plusvàlues que genere l'acció urbanística de les entitats públiques.
+Fa circular els diners; la seua cort és sempre plena de subministradors que se'n van sempre satisfets.
+També hi solia posar a vegades uns talls de botifarra catalana i una mica de costelló tallat petit.
+I Quimet veié un xic normal d'aproximadament la seua edat.
+D'allí eixien llargues arracades en forma de raïms farcits de diamants antics; anells amb brillants com lentilles; pedres sense muntar de valor considerable; cisellats de gran mèrit artístic; tot adquirit a força de calma i de regateig en el naufragi de les grans fortunes.
+Ús diari que els angloamericans fan del dret d’associació.
+Barregeu-ho tot fins que agafi la consistència d'una crema no gaire espessa.
+En Messiaen hi ha sobretot una voluntat expressa i constant de fer-se comprendre: gairebé no amaga res quan es tracta d'oferir les claus de lectura de la seva obra.
+La taula de contractació feta a la barra del bar com l'autèntic regulador del mercat laboral.
+Poseu-ho a coure durant mitja hora a foc mitjà.
+Descansa sobre la més elemental norma d'equilibri entre natura i temps equinoccial.
+Què volia aquell boig?
+Es pot dir que als Estats Units no hi ha ni una sola doctrina religiosa que es mostri hostil a les institucions democràtiques i republicanes.
+Caldria preguntar-los si considerarien acceptable en una democràcia que a algú li posaren una multa de 1.000 euros i li llevaren tots els punts del permís de conduir per parlar castellà.
+És molt difícil fer-se escoltar pels homes que viuen en les democràcies quan hom no els parla d’ells mateixos.
+No hi ha grans pobles sense la idea dels drets.
+
+
