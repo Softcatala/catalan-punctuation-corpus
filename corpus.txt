@@ -2,9 +2,10 @@
 #
 #  Aquest és un corpus per a l'avaluació de l'ús de la coma (,) sistemes de puntuació.
 # 
-#  Aquest corpus té dues parts:
+#  Aquest corpus té tres parts:
 #   - Una part per a avaluar l'us de correcte de les comes
 #   - Una part per a avaluar l'ús incorrecte de les comes (secció tipus 'Sense comes')
+#   - Una part específica per avaluar errors del model actual (secció tipus 'Errors model')
 #
 #  Referències
 #       Manual d'estil del DIEC: https://estil.llocs.iec.cat/wp-content/uploads/sites/24/2019/02/07_Pag_167-278_p-4.pdf
@@ -12,7 +13,7 @@
 # Llicència: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
 
 #
-# Tipus: Incisos o aclariments
+# @Tipus: Incisos o aclariments
 # Aquelles que expliquen alguna cosa sobre l'antecedent
 #
 Les comes, sempre segons les regles gramaticals, emmarquen una estructura prescindible.
@@ -33,7 +34,7 @@ I una prova més que evident d'eixa voluntat de repoblar llocs erms de fruiters,
 El jutge americà s’assembla, doncs, perfectament als magistrats de les altres nacions.
 
 #
-# Tipus: Elisió verbal
+# @Tipus: Elisió verbal
 # Oracions amb els verbs elidits se sol usar la coma per marcar aquesta elisió
 #
 Això vol dir una cosa; allò, una altra.
@@ -44,7 +45,7 @@ En les àrees urbanes caldrà una xarxa molt densa; en la resta, una densitat me
 En Josep es queda la camisa blanca i el seu pare, la negra
 
 #
-# Tipus: Vocatiu
+# @Tipus: Vocatiu
 # Noms amb què es reclama l'atenció d'algú
 #
 
@@ -61,7 +62,7 @@ Jordi, el senyor Bach ha vingut a buscar l'informe.
 Marta, on has desat l'abric?
 
 #
-# Tipus: Marcadors discursius / Circumstancials
+# @Tipus: Marcadors discursius / Circumstancials
 #
 
 En primer lloc, cal parlar de les causes del problema.
@@ -74,7 +75,7 @@ Seguint la metàfora de Berlin, nosaltres partim de la idea que la diversitat li
 Quan vaig començar a redactar el lli­bre, tenia el dubte de com agruparia els diferents plats.
 
 #
-# Tipus: Conjuncions adversatives
+# @Tipus: Conjuncions adversatives
 # Davant de conjuncions adversatives (però, sinó, tanmateix..) i separant altres conjuncions o locucions conjuntives en què s'acostuma a fer una pausa
 #
 
@@ -90,7 +91,7 @@ No és difícil sinó fàcil.
 
 
 #
-# Tipus: Enumeració
+# @Tipus: Enumeració
 # Per separar elements d'una enumeració, fora que hi hagi les conjuncions i, o o ni.
 #
 Espero que l'explicació sigui clara, útil i interessant.
@@ -100,13 +101,13 @@ Les aules no disposen d'ordinadors, projectors ni pantalles.
 A l'universitat estudiem història, ciències, llengua
 
 #
-# Tipus: Davant d'etc. (juntar amb enumeració)
+# @Tipus: Davant d'etc. (juntar amb enumeració)
 # 
 
 El primer, el segon, el tercer, etc.
 
 #
-# Tipus: Interjeccions
+# @Tipus: Interjeccions
 #
 
 Uf, això és complicat.
@@ -114,13 +115,13 @@ Ai, mare!
 
 
 #
-# Tipus: Oracions distributives (en català?)
+# @Tipus: Oracions distributives (en català?)
 #
 
 Per a aquest cas, bé aprenem les conjuncions de memòria, bé les deduïm en cada cas.
 
 #
-# Tipus: CC al principi, invertit
+# @Tipus: CC al principi, invertit
 #
 
 En aquesta hora de feina intensa, pensem en la teoria de les comes.
@@ -130,7 +131,7 @@ En aquest moment no es pot fer.
 
 
 #
-# Tipus: Subordinada adverbial abans de la principal
+# @Tipus: Subordinada adverbial abans de la principal
 #
 Quan passa una cosa d'aquest estil tan especial, hem de separar la frase amb una coma.
 Malgrat el precedent, el valencianisme va saber articular respostes des de la seua sobirania organitzativa.
@@ -141,7 +142,7 @@ Si poses una coma ací és que no ho has entès bé.
 
 
 #
-# Tipus: Ambigüitats
+# @Tipus: Ambigüitats
 #
 
 # També es podria dir 'He fet la feina com em vas demanar.'
@@ -149,21 +150,21 @@ He fet la feina, com em vas demanar.
 
 
 #
-# Tipus: Comiats
+# @Tipus: Comiats
 #
 
 T'estimo molt, Joanet
 
 
 #
-# Tipus: Sobrenoms, pseudònims
+# @Tipus: Sobrenoms, pseudònims
 #
 
 Joan Garcia, els Carros.
 
 
 #
-# Tipus: Adverbis
+# @Tipus: Adverbis
 #
 
 Afortunadament, això no és gens difícil de fer.
@@ -173,7 +174,7 @@ Afortunadament, això no és gens difícil de fer.
 Això que escric ací és un exemple del que s'ha de fer.
 
 #
-# Tipus: datacions
+# @Tipus: datacions
 #
 
 Barcelona, 3 de febrer del 2022
@@ -181,7 +182,7 @@ Girona, 12 d'abril de 20055
 Vic, 3 de gener de 2006
 
 #
-# Tipus: Sense comes
+# @Tipus: Sense comes
 # Es tracta de frases que no han de portar mai comes i serveixen per detectar falsos positius
 #
 
@@ -224,4 +225,15 @@ Caldria preguntar-los si considerarien acceptable en una democràcia que a algú
 És molt difícil fer-se escoltar pels homes que viuen en les democràcies quan hom no els parla d’ells mateixos.
 No hi ha grans pobles sense la idea dels drets.
 
+#
+# @Tipus: Errors model
+# Es tracta d'errors que han donat el model entrenat el 2022-4-6
+# Això és molt específic a la solució actual que usem a Softcatalà
+#
 
+I allí que estàvem, en exercici d'avergonyits pares de família, pegant amb goma els trossos que ens faltaven.
+A més a més, crec que les abelles no deuen cantar.
+Com sempre em constesteu de seguida m'ha estranyat
+Els cinc ajuntaments més poblats sense endeutament:
+El problema, doncs, és que intentem adaptar la natura a nosaltres en comptes de ser nosaltres els qui ens adaptem a la natura.
+Comentari del diumenge de la setmana XXII de, durant l'any.
