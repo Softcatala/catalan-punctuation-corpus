@@ -1,6 +1,6 @@
 #
 #
-#  Aquest és un corpus per a l'avaluació de l'ús de la coma (,) sistemes de puntuació.
+#  Aquest és un corpus per a l'avaluació de l'ús de la coma (,) en sistemes de puntuació.
 # 
 #  Aquest corpus té tres parts:
 #   - Una part per a avaluar l'us de correcte de les comes
